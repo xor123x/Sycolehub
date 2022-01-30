@@ -1,2 +1,2 @@
-getgenv().key = "your key goes here"
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ghastlytim/safw/main/kickifwrong'))()
+getgenv().key = "key here"
+loadstring(game:HttpGet("https://dawfsaw.000webhostapp.com/whitelist.lua"))()
