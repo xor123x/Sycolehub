@@ -1,2 +1,2 @@
 getgenv().key = "key here"
-loadstring(game:HttpGet("https://dawfsaw.000webhostapp.com/whitelist.lua"))()
+loadstring(game:HttpGet("https://blanked.tk/whitelist.lua"))()
