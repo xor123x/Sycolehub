@@ -1,2 +1,2 @@
 getgenv().key = "key here"
-loadstring(game:HttpGet("http://www.axusware.tk/Whitelist.lua"))()
+loadstring(game:HttpGet("http://axusware.tk/Whitelist.lua"))()
